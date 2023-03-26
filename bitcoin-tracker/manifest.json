@@ -1,0 +1,11 @@
+{
+    "name" : "Live Bitcoin Price",
+    "version" : "1.0.0",
+    "description" : "his data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org",
+    "manifest_version" : 3,
+    "author" : "Prasoon Balara",
+    "action" : {
+        "default_popup" : "index.html",
+        "default_title" : "Live Bitcoin Price"
+    }
+}
